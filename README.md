@@ -1,2 +1,5 @@
-# Base2025-Strategy-Design-Pattern
-The template for student projects for GitHub Classroom 2025
+
+# 2. Strategy Design Pattern
+
+Base project for the task. See Moodle for details.
+
